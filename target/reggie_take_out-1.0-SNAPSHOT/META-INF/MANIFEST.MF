@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: 张先生
+Build-Jdk: version 15.0.1
+Implementation-Title: reggie_take_out
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.zhang
+Main-Class: ${start-class}
+
